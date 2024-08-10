@@ -73,4 +73,12 @@ public class OrderBean implements Serializable {
 		this.shipped = shipped;
 	}
 
+    public void setEmailId(String johndoeexamplecom) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    public void setOrderNumber(String orD123) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
 }

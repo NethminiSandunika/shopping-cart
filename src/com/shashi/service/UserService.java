@@ -24,4 +24,6 @@ public interface UserService {
 
 	public String getUserAddr(String userId);
 
+    public void sendMail(String anyString, String eq, String eq0);
+
 }

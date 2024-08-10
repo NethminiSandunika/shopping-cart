@@ -33,6 +33,4 @@ public interface ProductService {
 	public double getProductPrice(String prodId);
 
 	public boolean sellNProduct(String prodId, int n);
-
-	public int getProductQuantity(String prodId);
 }

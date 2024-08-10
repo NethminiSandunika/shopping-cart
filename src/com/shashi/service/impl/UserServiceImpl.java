@@ -228,4 +228,9 @@ public class UserServiceImpl implements UserService {
 		return userAddr;
 	}
 
+    @Override
+    public void sendMail(String anyString, String eq, String eq0) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
 }

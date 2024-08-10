@@ -503,7 +503,6 @@ public class ProductServiceImpl implements ProductService {
 		return flag;
 	}
 
-	@Override
 	public int getProductQuantity(String prodId) {
 
 		int quantity = 0;
