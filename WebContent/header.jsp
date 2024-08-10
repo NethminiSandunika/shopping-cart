@@ -21,9 +21,9 @@
 <body style="background-color: #E6F9E6;">
 	<!--Company Header Starting  -->
 	<div class="container-fluid text-center"
-		style="margin-top: 45px; background-color: #33cc33; color: white; padding: 5px;">
-		<h2>Ellison Electronics</h2>
-		<h6>We specialize in Electronics</h6>
+		style="margin-top: 45px; background-color: #0b6374; color: white; padding: 5px;">
+		<h2>Electro Hub</h2>
+		<h6>We are specialists in the field of electronics</h6>
 		<form class="form-inline" action="index.jsp" method="get">
 			<div class="input-group">
 				<input type="text" class="form-control" size="50" name="search"
