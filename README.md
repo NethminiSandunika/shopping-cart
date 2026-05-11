@@ -7,7 +7,7 @@ This is an E-Commerce Website build for selling of any electronics products onli
 ![Read test plan document](https://drive.google.com/file/d/1-Gp6_uT1Wywes8A-S7Zgsej2o0xJZ6Dj/view?usp=drive_link)
 ![Read test case document](https://drive.google.com/file/d/1gdkyxa_NW8ReN5T5daxmxZkphyKJvuHK/view?usp=sharing)
 ![Read test execution report](https://drive.google.com/file/d/1ppeXmKbmDDJOQQRc7vZv-luYeSebfENX/view?usp=sharing)
-1[Read code coverage document](https://drive.google.com/file/d/1ma-VOjxcZdZBO04a426WGQVXNtGHiskI/view?usp=drive_link_)
+![Read code coverage document](https://drive.google.com/file/d/1ma-VOjxcZdZBO04a426WGQVXNtGHiskI/view?usp=drive_link)
 
 Login as a user
 ![image](https://github.com/user-attachments/assets/24e523c7-dab8-45d0-a587-906ace32c465)
